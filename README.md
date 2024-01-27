@@ -23,6 +23,8 @@
 )](https://www.linkedin.com/in/jos%C3%A9-lucena-81a557299/?locale=pt_BR)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/lucenaa.dev/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-00FF7F?style=for-the-badge&logo=WhatsApp&logoColor=white
+)](https://w.app/GOWdFq)
 
 ---
  
