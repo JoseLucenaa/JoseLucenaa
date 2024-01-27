@@ -2,6 +2,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+Chamo+José+Lucena!;Tenho+16+Anos;Sou+do+Brasil,+AL;Faço+Desenvolvimento+de+Sistemas+no+IFAL;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
+---
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JoseLucenaa&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="José Lucena github stats" /> 
@@ -9,7 +10,6 @@
 </div>
 
 ---
-
 
 <p align="center">
   <img src="https://github.com/JoseLucenaa/JoseLucenaa/assets/139528889/a5bf767f-8a7e-4b1c-936d-a58fe1a3e44f" width="200px">
@@ -19,6 +19,11 @@
 <div align="center">  
 <a href="https://www.instagram.com/lucenaa.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
+
+<div align="center">  
+<a href="https://www.linkedin.com/in/jos%C3%A9-lucena-81a557299/?locale=pt_BR" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%191970?style=for-the-badge&logo=Linkedin&logoColor=white"</a>
+</div> 
+---
  
 ### Minhas Atuais Ferramentas:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
