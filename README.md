@@ -6,8 +6,8 @@
 
 <div align="center">
   
-![JoseLucenaa GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseLucenaa&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseLucenaa&theme=dracula)](https://github.com/JoseLucenaa/github-readme-stats)
+![JoseLucenaa GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseLucenaa&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseLucenaa&theme=transparent)](https://github.com/JoseLucenaa/github-readme-stats)
 
 </div>
 
