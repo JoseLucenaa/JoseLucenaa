@@ -11,13 +11,10 @@
 ---
 
 
-
 <p align="center">
-  <img src="https://tenor.com/pt-BR/view/pixel-cat-gif-25950025" width="100px">
+  <img src="https://github.com/JoseLucenaa/JoseLucenaa/assets/139528889/a5bf767f-8a7e-4b1c-936d-a58fe1a3e44f" width="200px">
 </p>
 
-
----
 
 <div align="center">  
 <a href="https://www.instagram.com/joselucenaa__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
