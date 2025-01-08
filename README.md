@@ -23,14 +23,6 @@
   <img src="https://github.com/JoseLucenaa/JoseLucenaa/assets/139528889/a5bf767f-8a7e-4b1c-936d-a58fe1a3e44f" width="200px">
 </p>
 
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/jos%C3%A9-lucena-81a557299/?locale=pt_BR)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/lucenaa.dev/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-00FF7F?style=for-the-badge&logo=WhatsApp&logoColor=white
-)](https://w.app/GOWdFq)
-
 ---
  
 ### Minhas Atuais Ferramentas:
