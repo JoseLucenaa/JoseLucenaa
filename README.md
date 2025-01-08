@@ -20,7 +20,7 @@
 ---
 
 <p align="center">
-  <img src="![itachi](https://github.com/user-attachments/assets/affcfe3e-dd41-4c74-8050-69b69dd3cb72)
+  <img src="![image](https://github.com/user-attachments/assets/d3f797af-d8ea-4e5d-9b78-4844e78b122b)
 " width="200px">
 </p>
 
