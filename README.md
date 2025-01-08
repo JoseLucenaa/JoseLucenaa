@@ -20,7 +20,7 @@
 ---
 
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/d3f797af-d8ea-4e5d-9b78-4844e78b122b)
+  <img src="[![image](https://github.com/user-attachments/assets/d3f797af-d8ea-4e5d-9b78-4844e78b122b)](https://www.crieseusjogos.com.br/wp-content/uploads/2018/08/42-run-head.gif)
 " width="200px">
 </p>
 
