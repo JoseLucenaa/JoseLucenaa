@@ -20,7 +20,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/JoseLucenaa/JoseLucenaa/assets/139528889/a5bf767f-8a7e-4b1c-936d-a58fe1a3e44f" width="200px">
+  <img src="[https://github.com/JoseLucenaa/JoseLucenaa/assets/139528889/a5bf767f-8a7e-4b1c-936d-a58fe1a3e44f](https://i.gifer.com/5Mys.gif)" width="200px">
 </p>
 
 ---
