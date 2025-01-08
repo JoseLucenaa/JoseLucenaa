@@ -20,7 +20,7 @@
 ---
 
 <p align="center">
-  <img src="[https://github.com/JoseLucenaa/JoseLucenaa/assets/139528889/a5bf767f-8a7e-4b1c-936d-a58fe1a3e44f](https://i.gifer.com/5Mys.gif)" width="200px">
+  <img src="[[https://github.com/JoseLucenaa/JoseLucenaa/assets/139528889/a5bf767f-8a7e-4b1c-936d-a58fe1a3e44f](https://i.gifer.com/5Mys.gif)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fpt%2Fgifs%2Fbleach-character&psig=AOvVaw2GCNzeXEPheCXicsRf6Cy5&ust=1736405974113000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjq0sfG5YoDFQAAAAAdAAAAABBF)" width="200px">
 </p>
 
 ---
