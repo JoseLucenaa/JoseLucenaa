@@ -20,7 +20,7 @@
 ---
 
 <p align="center">
-  <img src="[![image](https://github.com/user-attachments/assets/d3f797af-d8ea-4e5d-9b78-4844e78b122b)](https://www.crieseusjogos.com.br/wp-content/uploads/2018/08/42-run-head.gif)
+  <img src="[[![image](https://github.com/user-attachments/assets/d3f797af-d8ea-4e5d-9b78-4844e78b122b)](https://www.crieseusjogos.com.br/wp-content/uploads/2018/08/42-run-head.gif)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.crieseusjogos.com.br%2Fanimando-um-personagem%2F&psig=AOvVaw2GCNzeXEPheCXicsRf6Cy5&ust=1736405974113000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjq0sfG5YoDFQAAAAAdAAAAABBL)
 " width="200px">
 </p>
 
