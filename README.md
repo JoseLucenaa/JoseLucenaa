@@ -1,4 +1,8 @@
-
+<p align="center">
+    <img alt="Shaggy's Activity Graph"
+        src="https://github-readme-activity-graph.vercel.app/graph/?username=JoseLucenaa&bg_color=0D1117&color=1F6FEB&line=EB5454&point=58A6FF&hide_border=true&width=860&radius=8&theme=github-compact&area_color=1F6FEB&area=true&height=300&custom_title="
+        align="center" width="100%" />
+</p>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+Chamo+José+Lucena!;Tenho+16+Anos;Sou+do+Brasil,+AL;Faço+Desenvolvimento+de+Sistemas+no+IFAL;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
