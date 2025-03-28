@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+Chamo+José+Lucena!;Tenho+1+Anos;Sou+do+Brasil,+AL;Faço+Desenvolvimento+de+Sistemas+no+IFAL;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+Chamo+José+Lucena!;Tenho+17+Anos;Sou+do+Brasil,+AL;Faço+Desenvolvimento+de+Sistemas+no+IFAL;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 <p align="center">
     <img alt="Shaggy's Activity Graph"
